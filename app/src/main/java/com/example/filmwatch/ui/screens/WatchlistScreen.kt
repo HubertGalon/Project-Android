@@ -182,7 +182,7 @@ private fun WatchlistFilmCard(
                 Spacer(modifier = Modifier.height(8.dp))
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Icon(
-                        imageVector = Icons.Default.RadioButtonUnchecked, // Placeholder for rating
+                        imageVector = Icons.Default.RadioButtonUnchecked,
                         contentDescription = null,
                         modifier = Modifier.size(14.dp),
                         tint = Color(0xFFFFC107)
